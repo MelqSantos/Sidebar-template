@@ -1,1 +1,1 @@
-[Sidebar](assets/Screenshot.png "Sidebar template")s
+![Sidenav](/assets/Screenshot.png "Sidebar template")
