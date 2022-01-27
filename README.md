@@ -1,0 +1,1 @@
+[Sidebar](assets/Screenshot.png "Sidebar template")s
